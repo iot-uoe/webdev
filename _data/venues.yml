@@ -1,0 +1,28 @@
+# Author Venue
+#
+#
+# Resource › https://help.shopify.com/themes/liquid/objects/address
+design-informatics: # replace this with your info
+  room: "Design Informatics Studio"
+  address1: "Evolution House"
+  address2: "78 West Port"
+  city: Edinburgh
+  postcode: "EH1 2LE"
+  mapurl: hhttp://www.openstreetmap.org/?mlat=55.94610&mlon=-3.20064#map=18/55.94610/-3.20064
+  
+ucreate-studio:
+  room: "uCreate Studio (Room 1.12)"
+  address1: "1st Floor, Main Library"
+  address2: "30 George Square"
+  city: Edinburgh
+  postcode: "EH8 9LJ"
+  mapurl: http://www.openstreetmap.org/?mlat=55.9438&mlon=-3.1889#map=15/55.9438/-3.1889
+
+if-g07:
+  room: "Infornatics Forum G07"
+  address1: "School of Informatics"
+  address2: "10 Crichton Street"
+  city: Edinburgh
+  postcode: "EH8 9AB"
+  mapurl: http://www.openstreetmap.org/?mlat=55.94466&mlon=-3.18733#map=17/55.94466/-3.18733
+
