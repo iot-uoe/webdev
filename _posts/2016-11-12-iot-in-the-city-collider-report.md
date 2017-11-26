@@ -16,7 +16,7 @@ show_meta: false
 
 A [Design Informatics](http://www.designinformatics.org) collider is a conceptual design event, bringing together computational thinking and design thinking, to pull informaticians together with designers, and problem holders. The first part of the collider sets the scene before breaking out in to workshop sessions. 
 
-The [Collider on IoT in the City]({{ site.baseurl }}{% post_url 2016-11-11-iot-in-the-city-collider %}) (11th November 2016) was framed by the following question:
+The [Collider on IoT in the City]({{ site.baseurl }}{% post_url /events/2016-11-11-iot-in-the-city-collider %}) (11th November 2016) was framed by the following question:
 
 > In the context of a city-wide network for the Internet of Things, what connections can be made that link together civic, cultural and private activities to foster an open innovation culture?
 

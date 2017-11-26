@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: banner.png
 widget1:
-  title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "What is IoT"
+# url: ''
+# image: ''
+  text: 'The Internet of Things (loT) is the interconnection via the Internet of computing devices en1bedded in everyday objects, enabling them to send and receive data.'
 widget2:
-  title: "Widget 2"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "What are we offering?"
+#  url: ''
+# image: ''
+  text: 'Information Services at the University has set up an IoT Research &amp; Innovation Service using LoRaWAN technology to help you easily run your loT project. '
 widget3:
-  title: "Widget 3"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "Who is it for?"
+#  url: ''
+#  image: ''
+  text: 'The service is a shared resource, open to a wide range of innovation partners and to support research and teaching within the University,  '
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,11 +32,12 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
+<!-- callforaction:
   url: https://tinyletter.com/feeling-responsive
   text: Inform me about new updates and features ›
-  style: alert
-permalink: /index.html
+  style: alert-->
+
+permalink: /index.html 
 ---
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
