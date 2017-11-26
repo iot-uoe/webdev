@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: banner.png
 widget1:
-  title: "What is IoT"
+  title: "What is IoT?"
 # url: ''
 # image: ''
-  text: 'The Internet of Things (loT) is the interconnection via the Internet of computing devices en1bedded in everyday objects, enabling them to send and receive data.'
+  text: 'The Internet of Things (loT) is the interconnection via the Internet of sensors and computing devices embedded in everyday objects, enabling them to send and receive data.'
 widget2:
   title: "What are we offering?"
 #  url: ''
@@ -21,7 +21,7 @@ widget3:
   title: "Who is it for?"
 #  url: ''
 #  image: ''
-  text: 'The service is a shared resource, open to a wide range of innovation partners and to support research and teaching within the University,  '
+  text: 'The IoT Service is a shared resource, open to a wide range of innovation partners and available to support research and teaching within the University.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -36,7 +36,6 @@ widget3:
   url: https://tinyletter.com/feeling-responsive
   text: Inform me about new updates and features ›
   style: alert-->
-
 permalink: /index.html 
 ---
 <div id="videoModal" class="reveal-modal large" data-reveal="">
