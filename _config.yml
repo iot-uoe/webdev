@@ -44,7 +44,7 @@ urlimg: 'https://iot-uoe.github.io/webdev/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: 
 
 
 # Paginates all X entries
@@ -86,6 +86,11 @@ compress_html:
   ignore:
     envs: [development]
 
+collections:
+    pilots:
+        output: true
+
+future: true
 
 #
 #       ____       ____            ____
@@ -111,7 +116,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      show_meta: true   # Show metadata for all posts
+      show_meta: false   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: phlow     # Default author for posts
@@ -187,6 +192,9 @@ msapplication_tilecolor:                "#fabb00"
 #
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
+socialmedia:
+    twitter: UoE_IoT
+    facebook: 
 
 
 #        ____  _
@@ -222,8 +230,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id: 
-
+google_analytics_tracking_id: UA-86425714-1
 
 
 #   _                 _     _
